@@ -44,7 +44,6 @@ while true
 do
   	clear # clear screen for each loop of menu
   	echo -e "\e[30;48;5;238m                                                                  \e[0m" # Grey Line
-	
 	echo -e "\e[30;48;5;214m                                                                  \e[0m"
   	echo -e "\e[30;48;5;214m\e[1m                   PLAGIARISM CHECKER                             \e[0m" 
 	echo -e "\e[30;48;5;214m                                                                  \e[0m"  	
