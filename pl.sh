@@ -1,7 +1,7 @@
 #!/bin/bash
 # Note: Plagiarism Checker & Showing Matching Percentage(%)
 # Date: 20/Aug/2020
-# Author:Khondakar
+# Author: Khondakar
 
 trap '' 2  # No control + c allowed
 
