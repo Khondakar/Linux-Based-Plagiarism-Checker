@@ -15,7 +15,7 @@ This is automated Linux based plagiarism checker.
 
 **WHY THIS SCRIPT:**
 
-Try to use Linux bash script to compare files and show similiary between two files with matching percentage (%) report.
+Try to use Linux bash script to compare files and show similarity between two files with matching percentage (%) report.
 
 **HOW TO USE IT:**
 
